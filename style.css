@@ -24,7 +24,9 @@ li{
   text-decoration: none;
 padding: 5px;
 display:inline-block;
-
+border-radius: 10px;
+border: solid black 10px;
+background-color: gray;
 }
 h1{
   text-align: center;
